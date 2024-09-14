@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saketh Pallempati</h1>
-<h3 align="center">I was in a relationship with web dev but broke up because of circumstances. I had a crush on machine learning but her daddy was maths. Now I am currently in a situation ship with DSA.</h3>
+<h3 align="center">I debugged my heart for web dev, flirted with ML's neural networks, but got caught in a recursive loop with DSA - now I'm stack overflowing with indecision!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh-pallempati&label=Profile%20views&color=0e75b6&style=flat" alt="saketh-pallempati" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **saketh.pallempati@gmail.com**
 
-- ⚡ Fun fact **I am funi**
+- ⚡ Fun fact **I am funi🤞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
