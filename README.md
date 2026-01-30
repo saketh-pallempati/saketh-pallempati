@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saketh-pallempati&label=Profile%20views&color=0e75b6&style=flat" alt="saketh-pallempati" /> </p>
 
-- 🌱 I’m currently daily driving **MERN, Next JS**
+- 🌱 I’m currently daily driving **MERN, Next JS, AWS, Java Backend Systems**
 
 - 💬 Fluent Languages **C++, Java, Python, JS**
 
